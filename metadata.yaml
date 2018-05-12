@@ -1,0 +1,35 @@
+_repo: The-Truce-of-GodA-Tale-of-the-Eleventh-Century_15289
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miles, George Henry
+    aliases:
+    - Halphin, Earnest
+    - Halpin, Ernest
+    - Miles, George H. (George Henry)
+    birthdate: 1824
+    deathdate: 1871
+    gutenberg_agent_id: '5979'
+    url: http://www.gutenberg.org/2009/agents/5979
+    wikipedia: http://en.wikipedia.org/wiki/George_Henry_Miles
+description: ''
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholics -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Germany -- History -- Henry IV, 1056-1106 -- Fiction'
+- !lcsh 'Holy Roman Empire -- History -- Henry IV, 1056-1106 -- Fiction'
+title: 'The Truce of God
+
+  A Tale of the Eleventh Century'
+url: http://www.gutenberg.org/ebooks/15289
